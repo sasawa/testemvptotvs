@@ -1,0 +1,31 @@
+{
+  "leiloes": [
+    {
+      "id": 1,
+      "nome_do_leilao": "Carro Ecosport 1.6 2011",
+      "valor_inicial": 10000,
+      "usado": true,
+      "usuario_responsavel": "Jorge",
+      "data_de_abertura": "21/10/2020",
+      "data_de_finalizacao": "22/12/2020"
+    },
+    {
+      "id": 2,
+      "nome_do_leilao": "Carro Ecosport 1.6 2011",
+      "valor_inicial": 10000,
+      "usado": true,
+      "usuario_responsavel": "Jorge",
+      "data_de_abertura": "21/10/2020",
+      "data_de_finalizacao": "22/12/2020"
+    },
+    {
+      "id": 3,
+      "nome_do_leilao": "Carro Ecosport 1.6 2011",
+      "valor_inicial": 10000,
+      "usado": true,
+      "usuario_responsavel": "Jorge",
+      "data_de_abertura": "21/10/2020",
+      "data_de_finalizacao": "22/12/2020"
+    }
+  ]
+}
